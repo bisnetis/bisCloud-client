@@ -1,8 +1,8 @@
-set( APPLICATION_NAME       "ownCloud" )
-set( APPLICATION_EXECUTABLE "owncloud" )
-set( APPLICATION_DOMAIN     "owncloud.com" )
+set( APPLICATION_NAME       "bisCloud" )
+set( APPLICATION_EXECUTABLE "biscloud" )
+set( APPLICATION_DOMAIN     "bisnet.co.za" )
 set( APPLICATION_VENDOR     "ownCloud" )
-set( APPLICATION_UPDATE_URL "https://updates.owncloud.com/client/" CACHE string "URL for updater" )
+set( APPLICATION_UPDATE_URL "https://updates.bisnet.co.za/client/" CACHE string "URL for updater" )
 
 set( THEME_CLASS            "ownCloudTheme" )
 set( APPLICATION_REV_DOMAIN "com.owncloud.desktopclient" )
